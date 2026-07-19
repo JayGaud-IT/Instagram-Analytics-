@@ -1,4 +1,5 @@
 Instagram Analytics SQL Project 
+
 Project Overview
 This project focuses on analyzing Instagram data using SQL to evaluate user behavior, post performance, and engagement trends. By building a structured relational database covering users, posts, engagement metrics, and traffic sources, meaningful insights were extracted to support data-driven decision-making for digital marketing and content strategies.
 
